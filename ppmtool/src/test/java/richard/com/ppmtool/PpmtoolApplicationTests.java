@@ -1,10 +1,10 @@
-package com.example.pptool;
+package richard.com.ppmtool;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PptoolApplicationTests {
+class PpmtoolApplicationTests {
 
 	@Test
 	void contextLoads() {
